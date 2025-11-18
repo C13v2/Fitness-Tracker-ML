@@ -1,3 +1,5 @@
+![Exercises](images/barbell_exercises.png)
+![Graphs](images/graphs.png)
 
 # Fitness-Tracker-ML
 Mini Master Project 
